@@ -1,0 +1,9 @@
+title: ソフトウェア工学 2026
+description: ソフトウェア工学の講義で学んだ内容のまとめ
+baseurl: "/hello-world"
+url: "https://Souta-5.github.io"
+github_username: Souta-5
+
+theme: minima
+plugins:
+  - jekyll-feed
